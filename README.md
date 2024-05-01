@@ -7,6 +7,6 @@
 
 📫 You can reach me via email at f_javdan2000@yahoo.com or connect with me on LinkedIn.
 
-🌐 Check out my website: jananjavdan.github.io
+🌐 Check out my website: https://jananjavdan.github.io/
 
 ⚡ Fun fact: I enjoy exploring different cuisines and cooking new recipes in my free time.
