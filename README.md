@@ -9,7 +9,8 @@
 
 🌐 Check out my website: https://jananjavdan.github.io/
 
-💼 Feel free to take a look at [my resume](Janan Javdan CV.html) to learn more about my background and experience.
+💼 Feel free to take a look at [my resume](./Janan%20Javdan%20CV.html) to learn more about my background and experience.
+
 
 
 ⚡ Fun fact: I enjoy exploring different cuisines and cooking new recipes in my free time.
