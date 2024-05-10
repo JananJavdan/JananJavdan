@@ -9,7 +9,7 @@
 
 🌐 Check out my website: https://jananjavdan.github.io/
 
-💼 Feel free to take a look at [my resume](file:///C:/Users/Siamak/Downloads/Janan+Javdan+CV.jpg.html) to learn more about my background and experience.
+💼 Feel free to take a look at [my resume](https://jananjavdan.github.io/Resume-Janan-Javdan.github.io/) to learn more about my background and experience.
 
 
 
