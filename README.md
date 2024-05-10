@@ -9,7 +9,8 @@
 
 🌐 Check out my website: https://jananjavdan.github.io/
 
-💼 Feel free to take a look at [my resume](./gh repo clone JananJavdan/Resume-Janan-Javdan) to learn more about my background and experience.
+💼 Feel free to take a look at [my resume](https://github.com/<jouw-gebruikersnaam>/<repository-naam>/blob/main/Janan%20Javdan%20CV.html) to learn more about my background and exp
+
 
 
 
