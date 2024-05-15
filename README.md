@@ -1,10 +1,5 @@
 <h1 align="center">Hi there, I'm Janan Javdan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
- var typed = new Typed('.typing',{
-      strings: ["a passion java developer from belgium"],
-      loop: true,
-      typeSpeed: 65,
-      backSpeed: 65
-    });
+
 <p align="center">
   <a href="https://github.com/JananJavdan"><img src="https://img.shields.io/github/followers/JananJavdan?label=Followers&style=social"></a>
   <a href="https://github.com/JananJavdan"><img src="https://img.shields.io/github/stars/JananJavdan?label=Stars&style=social"></a>
