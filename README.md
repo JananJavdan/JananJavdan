@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm <span><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Janan+Javdan!"></span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  Hi there, I'm <span><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FF69B4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Janan+Javdan!"></span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
 <p align="center">
