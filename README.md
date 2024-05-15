@@ -31,14 +31,14 @@ I'm passionate about software development, learning new technologies, and collab
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 </p>
-![image]()
+
 
 ## Contact Me
 <p align="center">
-  <a href="mailto:f_javdan2000@yahoo.com"><img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/fb378f48-5c52-4d3f-bf3a-eeab24febfff" width="30px"/></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
-  <a href="https://jananjavdan.github.io/"><img src="https://img.icons8.com/fluent/48/000000/domain.png" width="30px"/></a>
-  <a href="https://jananjavdan.github.io/resume"><img src="https://img.icons8.com/fluent/48/000000/resume.png" width="30px"/></a>
+  <a href="mailto:f_javdan2000@yahoo.com"><img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/fb378f48-5c52-4d3f-bf3a-eeab24febfff" width="50px"/></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/fb378f48-5c52-4d3f-bf3a-eeab24febfff" width="50px"/></a>
+  <a href="https://jananjavdan.github.io/"><img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/fb378f48-5c52-4d3f-bf3a-eeab24febfff" width="50px"/></a>
+  <a href="https://jananjavdan.github.io/resume"><img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/fb378f48-5c52-4d3f-bf3a-eeab24febfff" width="50px"/></a>
 </p>
 
 
