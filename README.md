@@ -17,7 +17,7 @@ I'm passionate about software development, learning new technologies, and collab
 
 ## 🔨 Languages-Frameworks-Tools 🔨
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/a56acac7-f241-4975-91b5-3df0241850c0" />
   <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
