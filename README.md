@@ -35,10 +35,13 @@ I'm passionate about software development, learning new technologies, and collab
 
 ## Contact Me
 <p align="center">
-  <a href="mailto:f_javdan2000@yahoo.com"><img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/fb378f48-5c52-4d3f-bf3a-eeab24febfff" width="50px"/></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/fb378f48-5c52-4d3f-bf3a-eeab24febfff" width="50px"/></a>
-  <a href="https://jananjavdan.github.io/"><img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/fb378f48-5c52-4d3f-bf3a-eeab24febfff" width="50px"/></a>
-  <a href="https://jananjavdan.github.io/resume"><img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/fb378f48-5c52-4d3f-bf3a-eeab24febfff" width="50px"/></a>
+  <a href="mailto:f_javdan2000@yahoo.com"><img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/fb378f48-5c52-4d3f-bf3a-eeab24febfff" width="70px"/></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="![image](https://github.com/JananJavdan/JananJavdan/assets/145382151/dd64519d-eb54-4ab1-809a-7cb55d18d3a6)
+" width="70px"/></a>
+  <a href="https://jananjavdan.github.io/"><img src="![image](https://github.com/JananJavdan/JananJavdan/assets/145382151/44a14280-0115-476a-a7f2-967972c6eb93)
+" width="70px"/></a>
+  <a href="https://jananjavdan.github.io/resume"><img src="![image](https://github.com/JananJavdan/JananJavdan/assets/145382151/a0357308-5898-40da-a604-c929e073b202)
+" width="70px"/></a>
 </p>
 
 
