@@ -34,9 +34,9 @@ I'm passionate about software development, learning new technologies, and collab
 I enjoy exploring different cuisines and cooking new recipes in my free time.
 
 ## GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JananJavdan&show_icons=true&theme=tokyonight" alt="Janan's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananJavdan&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JananJavdan&show_icons=true&theme=radical" alt="Janan's GitHub stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananJavdan&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="49%"/>
 </p>
 
 ## Top Languages
