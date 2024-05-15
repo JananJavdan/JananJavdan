@@ -20,16 +20,15 @@ I'm passionate about software development, learning new technologies, and collab
   <img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/a56acac7-f241-4975-91b5-3df0241850c0"  width="80px" />
   <img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/fee21075-a53d-4013-b2b1-372947af4656"
     width="80px"/>
-  <img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/adc37f68-84e6-4d21-9d75-ea77223ae657
-" width="80px"/>
-  <img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/8555ab26-27be-42f5-a97a-fbdbc2a45ea8
-"  width="80px" />
-  <img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/efe67107-2ffa-47f9-a8e9-64844ab1dc04
-" width="80px"/>
-  <img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/ea5965e8-89c4-45e5-b960-bbbb81093eb3
-" width="80px"/>
-  <img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/6404a165-9e64-4fef-b412-13b1d89be8bf
-"  width="80px"/>
+  <img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/adc37f68-84e6-4d21-9d75-ea77223ae657" width="80px"/>
+  <img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/8555ab26-27be-42f5-a97a-fbdbc2a45ea8"
+width="80px" />
+  <img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/efe67107-2ffa-47f9-a8e9-64844ab1dc04"
+width="80px"/>
+  <img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/ea5965e8-89c4-45e5-b960-bbbb81093eb3"
+width="80px"/>
+  <img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/6404a165-9e64-4fef-b412-13b1d89be8bf"
+width="80px"/>
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
