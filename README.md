@@ -23,17 +23,21 @@ I'm passionate about software development, learning new technologies, and collab
 </p>
 
 ## Contact Me
-- <img src="https://img.icons8.com/fluent/48/000000/email.png" width="20px"/> **Email:** [f_javdan2000@yahoo.com](mailto:f_javdan2000@yahoo.com)
-- <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="20px"/> **LinkedIn:** [Connect with me](https://www.linkedin.com/in/yourprofile)
-- <img src="https://img.icons8.com/fluent/48/000000/domain.png" width="20px"/> **Website:** [My Website](https://jananjavdan.github.io/)
-- <img src="https://img.icons8.com/fluent/48/000000/resume.png" width="20px"/> **Resume:** [My Resume](https://jananjavdan.github.io/resume)
+<p align="left">
+  <a href="mailto:f_javdan2000@yahoo.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" width="20px"/></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="20px"/></a>
+  <a href="https://jananjavdan.github.io/"><img src="https://img.icons8.com/fluent/48/000000/domain.png" width="20px"/></a>
+  <a href="https://jananjavdan.github.io/resume"><img src="https://img.icons8.com/fluent/48/000000/resume.png" width="20px"/></a>
+</p>
 
 ## Fun Fact
 I enjoy exploring different cuisines and cooking new recipes in my free time.
 
 ## GitHub Stats
-![Janan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JananJavdan&show_icons=true&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JananJavdan&layout=compact&theme=vue&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JananJavdan&show_icons=true&theme=tokyonight" alt="Janan's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananJavdan&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+</p>
 
 ## Top Languages
 <p align="left">
