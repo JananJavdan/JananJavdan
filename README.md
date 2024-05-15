@@ -1,4 +1,10 @@
 <h1 align="center">Hi there, I'm Janan Javdan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+ var typed = new Typed('.typing',{
+      strings: ["a passion java developer from belgium"],
+      loop: true,
+      typeSpeed: 65,
+      backSpeed: 65
+    });
 <p align="center">
   <a href="https://github.com/JananJavdan"><img src="https://img.shields.io/github/followers/JananJavdan?label=Followers&style=social"></a>
   <a href="https://github.com/JananJavdan"><img src="https://img.shields.io/github/stars/JananJavdan?label=Stars&style=social"></a>
@@ -52,10 +58,4 @@ width="80px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananJavdan&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="48%"/>
 </p>
 
-## Top Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-88%25-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-50%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-50%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-60%25-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-</p>
+
