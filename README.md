@@ -11,6 +11,12 @@ I'm passionate about software development, learning new technologies, and collab
 - 🌱 **I’m currently learning:** Database design and development
 - 👯 **I’m looking to collaborate on:** Java or web development projects
 
+## Skills
+- **Java:** ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Java Progress](https://progress-bar.dev/90/)
+- **HTML:** ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![HTML Progress](https://progress-bar.dev/50/)
+- **MySQL:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MySQL Progress](https://progress-bar.dev/50/)
+- **Spring:** ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Spring Progress](https://progress-bar.dev/60/)
+
 ## Contact Me
 - <img src="https://img.icons8.com/fluent/48/000000/email.png" width="20px"/> **Email:** [f_javdan2000@yahoo.com](mailto:f_javdan2000@yahoo.com)
 - <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="20px"/> **LinkedIn:** [Connect with me](https://www.linkedin.com/in/yourprofile)
