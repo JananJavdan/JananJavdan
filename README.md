@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/JananJavdan?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/JananJavdan?label=Stars&style=social)
 
-<img src="https://jananjavdan.github.io/profile.jpg" alt="Profile Photo" width="200" />
+
 
 ## About Me
 I'm passionate about software development, learning new technologies, and collaborating on interesting projects. Currently, I'm diving deep into advanced Java topics, JavaScript frameworks like Angular, and improving my skills in database design and development.
@@ -14,10 +14,10 @@ I'm passionate about software development, learning new technologies, and collab
 - 👯 **I’m looking to collaborate on:** Java or web development projects
 
 ## Contact Me
-- **Email:** [f_javdan2000@yahoo.com](mailto:f_javdan2000@yahoo.com)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/yourprofile)
-- **Website:** [My Website](https://jananjavdan.github.io/)
-- **Resume:** [My Resume](https://jananjavdan.github.io/resume)
+- <img src="https://img.icons8.com/fluent/48/000000/email.png" width="20px"/> **Email:** [f_javdan2000@yahoo.com](mailto:f_javdan2000@yahoo.com)
+- <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="20px"/> **LinkedIn:** [Connect with me](https://www.linkedin.com/in/yourprofile)
+- <img src="https://img.icons8.com/fluent/48/000000/domain.png" width="20px"/> **Website:** [My Website](https://jananjavdan.github.io/)
+- <img src="https://img.icons8.com/fluent/48/000000/resume.png" width="20px"/> **Resume:** [My Resume](https://jananjavdan.github.io/resume)
 
 ## Fun Fact
 I enjoy exploring different cuisines and cooking new recipes in my free time.
