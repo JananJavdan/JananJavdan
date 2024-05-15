@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/JananJavdan?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/JananJavdan?label=Stars&style=social)
 
-<img src="https://jananjavdan.github.io/profile.jpg" alt="Profile Photo" width="200" />
+
 
 ## About Me
 I'm passionate about software development, learning new technologies, and collaborating on interesting projects. Currently, I'm diving deep into advanced Java topics, JavaScript frameworks like Angular, and improving my skills in database design and development.
