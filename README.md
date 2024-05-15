@@ -23,13 +23,6 @@ I'm passionate about software development, learning new technologies, and collab
 I enjoy exploring different cuisines and cooking new recipes in my free time.
 
 ## GitHub Stats
-![Janan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JananJavdan&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JananJavdan&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Janan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JananJavdan&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JananJavdan&layout=compact&theme=gruvbox&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-## Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JananJavdan&repo=AnimalShelterTestingJanan&theme=radical)](https://github.com/JananJavdan/AnimalShelterTestingJanan)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JananJavdan&repo=IceCreamFlavorsTest&theme=radical)](https://github.com/JananJavdan/IceCreamFlavorsTest)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JananJavdan&repo=JDBCProject4&theme=radical)](https://github.com/JananJavdan/JDBCProject4)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JananJavdan&repo=MysqlProject2&theme=radical)](https://github.com/JananJavdan/MysqlProject2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JananJavdan&repo=WinkelProjectSQLJanan&theme=radical)](https://github.com/JananJavdan/WinkelProjectSQLJanan)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JananJavdan&repo=JPA-CRUD&theme=radical)](https://github.com/JananJavdan/JPA-CRUD)
