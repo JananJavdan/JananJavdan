@@ -1,4 +1,59 @@
-<h1 align="center">Hi there, I'm Janan Javdan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Janan Javdan's Profile</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+</head>
+<body>
+    <h1 align="center">
+        Hi there, I'm <span id="typed"></span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+    </h1>
+    <p align="center">
+        <a href="https://github.com/JananJavdan"><img src="https://img.shields.io/github/followers/JananJavdan?label=Followers&style=social"></a>
+        <a href="https://github.com/JananJavdan"><img src="https://img.shields.io/github/stars/JananJavdan?label=Stars&style=social"></a>
+    </p>
+
+    <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=JananJavdan&color=blue" alt="Profile Views">
+    </p>
+
+    <script>
+        var typed = new Typed("#typed", {
+            strings: ["Janan Javdan"],
+            typeSpeed: 50,
+            backSpeed: 25,
+            loop: true
+        });
+    </script>
+</body>
+</html>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+h1 {
+    margin: 20px 0;
+}
+
+p {
+    margin: 5px 0;
+}
+
+a {
+    margin: 0 10px;
+}
 
 <p align="center">
   <a href="https://github.com/JananJavdan"><img src="https://img.shields.io/github/followers/JananJavdan?label=Followers&style=social"></a>
