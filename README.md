@@ -4,8 +4,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/JananJavdan?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/JananJavdan?label=Stars&style=social)
 
-
-
 ## About Me
 I'm passionate about software development, learning new technologies, and collaborating on interesting projects. Currently, I'm diving deep into advanced Java topics, JavaScript frameworks like Angular, and improving my skills in database design and development.
 
@@ -23,6 +21,5 @@ I'm passionate about software development, learning new technologies, and collab
 I enjoy exploring different cuisines and cooking new recipes in my free time.
 
 ## GitHub Stats
-![Janan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JananJavdan&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JananJavdan&layout=compact&theme=gruvbox&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+![Janan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JananJavdan&show_icons=true&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JananJavdan&layout=compact&theme=vue&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
