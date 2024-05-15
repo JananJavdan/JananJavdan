@@ -29,12 +29,11 @@ width="80px"/>
 width="80px"/>
   <img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/6404a165-9e64-4fef-b412-13b1d89be8bf"
 width="80px"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/a1d8da8b-db77-476b-a7d2-82c72d735d63"
+width="80px"/>
+  <img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/f421ea42-fbb8-4d78-92ef-05ac46ff27f8"
+width="80px" />
+  
 </p>
 
 
