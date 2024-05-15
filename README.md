@@ -1,10 +1,10 @@
-# Hi there, I'm Janan Javdan 👋
+# Hi there, I'm Janan Javdan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JananJavdan&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/JananJavdan?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/JananJavdan?label=Stars&style=social)
 
-
+<img src="https://jananjavdan.github.io/profile.jpg" alt="Profile Photo" width="200" />
 
 ## About Me
 I'm passionate about software development, learning new technologies, and collaborating on interesting projects. Currently, I'm diving deep into advanced Java topics, JavaScript frameworks like Angular, and improving my skills in database design and development.
@@ -15,7 +15,7 @@ I'm passionate about software development, learning new technologies, and collab
 
 ## Contact Me
 - **Email:** [f_javdan2000@yahoo.com](mailto:f_javdan2000@yahoo.com)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/janan-javdan-854404240/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/yourprofile)
 - **Website:** [My Website](https://jananjavdan.github.io/)
 - **Resume:** [My Resume](https://jananjavdan.github.io/resume)
 
