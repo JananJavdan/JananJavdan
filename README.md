@@ -10,7 +10,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JananJavdan&color=blue" alt="Profile Views">
 </p>
-## About Me
+<strong> About Me</strong>
+
 I'm a software developer passionate about exploring advanced Java, JavaScript frameworks like Angular, and enhancing my database skills. I enjoy learning new technologies and collaborating on exciting projects.
 
 - 🔭 **I’m currently working on:** Advanced Java, Angular
