@@ -10,9 +10,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JananJavdan&color=blue" alt="Profile Views">
 </p>
-
 ## About Me
-I'm passionate about software development, learning new technologies, and collaborating on interesting projects. Currently, I'm diving deep into advanced Java topics, JavaScript frameworks like Angular, and improving my skills in database design and development.
+I'm a software developer passionate about exploring advanced Java, JavaScript frameworks like Angular, and enhancing my database skills. I enjoy learning new technologies and collaborating on exciting projects.
 
 - 🔭 **I’m currently working on:** Advanced Java, Angular
 - 🌱 **I’m currently learning:** Database design and development
@@ -41,6 +40,7 @@ I'm passionate about software development, learning new technologies, and collab
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JananJavdan&show_icons=true&theme=radical" alt="Janan's GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananJavdan&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JananJavdan&show_icons=true&theme=default" alt="Janan's GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananJavdan&layout=compact&theme=default&langs_count=8" alt="Top Languages" width="48%"/>
 </p>
+
