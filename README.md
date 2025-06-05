@@ -15,9 +15,7 @@ String origin = "Belgium";
 String specialty = "Java Developer";
 String mindset = "Code with heart, learn with fire";
 
-scss
-Copy
-Edit
+
 void dailyRoutine() {
     drinkCoffee();
     writeCode();
@@ -27,9 +25,6 @@ void dailyRoutine() {
 }
 }
 
-pgsql
-Copy
-Edit
 
 Born to build, wired to learn.  
 From my first `System.out.println("Hello World")` at Intec Brussel  
@@ -39,9 +34,7 @@ I believe every app starts with a bold idea and grows with clean code.
 
 🌐 [My Digital Corner](https://jananjavdan.github.io/)
 
----
 
-🧠 *"Logic is my canvas. Code is my brush. Let’s paint something real."*
 
 
 
