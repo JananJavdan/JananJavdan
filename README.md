@@ -8,38 +8,7 @@
 </p>
 
 
-## 👨‍💻 About Me
 
-```java
-class JananJavdan {
-    String origin = "🇧🇪 Belgium";
-    String specialty = "Java Developer";
-    String mindset = "Code with heart, learn with fire";
-
-    void dailyRoutine() {
-        drinkCoffee();
-        writeCode();
-        breakThings();
-        fixThemBetter();
-        repeat();
-    }
-}
-✨ Born to build, wired to learn.
-From my first System.out.println("Hello World") at Intec Brussel,
-to building real-world tools with Java, I code with purpose and curiosity.
-
-💡 “Every app starts with a bold idea and grows with clean code.”
-
-<p align="center"> <a href="https://jananjavdan.github.io/" target="_blank"> <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit My Website"> </a> </p> ```
-🎨 Deze versie combineert:
-
-Java code block stijl
-
-Mooie regelafstand
-
-Gecentreerde portfolio link met badge-stijl
-
-Een motiverende quote
 
 
 
