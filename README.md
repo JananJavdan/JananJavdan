@@ -31,9 +31,9 @@ I'm a software developer passionate about exploring advanced Java, JavaScript fr
   <img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/f421ea42-fbb8-4d78-92ef-05ac46ff27f8" width="80px" />
 </p>
 
-### 🎧 Now Playing
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_uid&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/your_spotify_uid)
+<h1 align="center">
+  Hi there, I'm <span style="color:#FF69B4;">Janan Javdan</span> 💻✨
+</h1>
 
 
 ## Contact Me
