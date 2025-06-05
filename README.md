@@ -31,12 +31,10 @@ to building real-world tools with Java, I code with purpose and curiosity.
 💡 "Every app starts with a bold idea and grows with clean code."
 
 
-### 🕹️ Play My Game
+### 🎮 Game Preview
 
 <p align="center">
-  <a href="https://jananjavdan.github.io/minesweeper-game/" target="_blank">
-    <img src="https://img.shields.io/badge/🟢%20Play%20Minesweeper-222?style=for-the-badge" />
-  </a>
+  <img src="https://yourgameimageurl.gif" width="400px" alt="Minesweeper Preview" />
 </p>
 
 
