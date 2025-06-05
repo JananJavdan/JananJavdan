@@ -31,7 +31,13 @@ to building real-world tools with Java, I code with purpose and curiosity.
 💡 "Every app starts with a bold idea and grows with clean code."
 
 
-🎮 Try my interactive Tic Tac Toe on [CodePen](https://codepen.io/jananjavdan/pen/xyz123)
+## 🕹️ Play My Game!
+
+<p align="center">
+<a href="https://codepen.io/JananJavdan/pen/JodWePz" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20Click%20the%20Emoji%20Game%20-%20Play%20Now-orange?style=for-the-badge" alt="Play Emoji Game">
+  </a>
+</p>
 
 
 
