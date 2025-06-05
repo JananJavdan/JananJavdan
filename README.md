@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header-banner.png.png" alt="Profile Banner" width="50%" style="max-height: 180px;"/>
+  <img src="./assets/profile-header-banner.png.png" alt="Profile Banner" width="50%" style="max-height: 100px;"/>
 </p>
 
 
