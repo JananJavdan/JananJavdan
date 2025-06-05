@@ -59,6 +59,7 @@ to building real-world tools with Java, I code with purpose and curiosity.
 
 
 
+## 🔥 GitHub Streak Stats
 <table align="center">
   <tr>
     <td>
