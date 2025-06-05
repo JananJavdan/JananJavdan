@@ -70,11 +70,10 @@ to building real-world tools with Java, I code with purpose and curiosity.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JananJavdan&theme=default" alt="GitHub Streak" />
 </p>
-## 🕹️ Just for fun
+
 
 <p align="center">
-<img src="./assets/trex.gif" width="500" />
-
+  <img src="./trex.gif" width="500" alt="T-Rex Game" />
 </p>
 
 
