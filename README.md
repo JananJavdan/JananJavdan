@@ -10,13 +10,38 @@
 
 ## About Me
 
-Hi, I'm Janan Javdan — a developer with a love for clean code and creative solutions.  
-My coding journey began at Intec Brussel, where I discovered the power of Java and full-stack development.  
+class JananJavdan {
+String origin = "Belgium";
+String specialty = "Java Developer";
+String mindset = "Code with heart, learn with fire";
 
-Now, I’m sharpening my skills in Java, Angular, and backend logic, always looking for ways to turn ideas into working apps.  
-Let’s build something that matters.
+scss
+Copy
+Edit
+void dailyRoutine() {
+    drinkCoffee();
+    writeCode();
+    breakThings();
+    fixThemBetter();
+    repeat();
+}
+}
 
-🔗 [Visit my portfolio](https://jananjavdan.github.io/)
+pgsql
+Copy
+Edit
+
+Born to build, wired to learn.  
+From my first `System.out.println("Hello World")` at Intec Brussel  
+to structuring real Java tools, I code with purpose and curiosity.
+
+I believe every app starts with a bold idea and grows with clean code.
+
+🌐 [My Digital Corner](https://jananjavdan.github.io/)
+
+---
+
+🧠 *"Logic is my canvas. Code is my brush. Let’s paint something real."*
 
 
 
