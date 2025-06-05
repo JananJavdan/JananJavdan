@@ -31,6 +31,11 @@ I'm a software developer passionate about exploring advanced Java, JavaScript fr
   <img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/f421ea42-fbb8-4d78-92ef-05ac46ff27f8" width="80px" />
 </p>
 
+### 🎧 Now Playing
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_uid&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/your_spotify_uid)
+
+
 ## Contact Me
 <p align="center">
   <a href="mailto:f_javdan2000@yahoo.com"><img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/fb378f48-5c52-4d3f-bf3a-eeab24febfff" width="70px"/></a>
@@ -39,8 +44,23 @@ I'm a software developer passionate about exploring advanced Java, JavaScript fr
   <a href="https://jananjavdan.github.io/resume"><img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/a0357308-5898-40da-a604-c929e073b202" width="70px"/></a>
 </p>
 
+### 💻 Code Mood Today
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/code.gif" width="150px"/>
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="180px"/>
+</p>
+
+
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JananJavdan&show_icons=true&theme=default" alt="Janan's GitHub stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananJavdan&layout=compact&theme=default&langs_count=8" alt="Top Languages" width="48%"/>
 </p>
+
+### 🔥 #30NitesOfCode
+
+I'm participating in `#30NitesOfCode` to keep growing and learning.  
+🌙 Small goals. Big consistency.  
+> Day 3 of 30 ✅
+
