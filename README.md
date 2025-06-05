@@ -8,7 +8,25 @@
 </p>
 
 
+👨‍💻 About Me
 
+class JananJavdan {
+    String origin = "🇧🇪 Belgium";
+    String specialty = "Java Developer";
+    String mindset = "Code with heart, learn with fire";
+
+    void dailyRoutine() {
+        drinkCoffee();
+        writeCode();
+        breakThings();
+        fixThemBetter();
+        repeat();
+    }
+}
+
+✨ Born to build, wired to learn.From my first System.out.println("Hello World") at Intec Brussel,to building real-world tools with Java, I code with purpose and curiosity.
+
+💡 "Every app starts with a bold idea and grows with clean code."
 
 
 
