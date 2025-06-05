@@ -73,7 +73,8 @@ to building real-world tools with Java, I code with purpose and curiosity.
 ## 🕹️ Just for fun
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUA7b7F6XC6Gh3mGTS/giphy.gif" alt="T-Rex Game" width="500"/>
+<img src="./assets/trex.gif" width="500" />
+
 </p>
 
 
