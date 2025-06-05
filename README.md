@@ -65,5 +65,17 @@ to building real-world tools with Java, I code with purpose and curiosity.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananJavdan&layout=compact&theme=default&langs_count=8" alt="Top Languages" width="48%"/>
 </p>
 
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JananJavdan&theme=default" alt="GitHub Streak" />
+</p>
+## 🕹️ Just for fun
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Charles-Chrismann/Charles-Chrismann/main/assets/trex.gif" alt="T-Rex Game" width="500"/>
+</p>
+
+
 
 
