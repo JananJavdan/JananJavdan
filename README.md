@@ -8,16 +8,16 @@
 </p>
 
 
-I'm Janan Javdan — a passionate and evolving Java developer based in Belgium.  
-I enjoy building practical applications, exploring the Java ecosystem, and crafting clean, efficient solutions for real-world problems.
+## About Me
 
-Currently, I'm focused on deepening my skills in Java (OOP, file management, Spring Boot) and frontend development using Angular.  
-I also have a growing interest in database architecture and backend systems.
+Hi, I'm Janan Javdan — a developer with a love for clean code and creative solutions.  
+My coding journey began at Intec Brussel, where I discovered the power of Java and full-stack development.  
 
-I'm always open to collaborating on meaningful web or Java-based development projects.  
-If you're building something impactful and value clean code, let's connect.
+Now, I’m sharpening my skills in Java, Angular, and backend logic, always looking for ways to turn ideas into working apps.  
+Let’s build something that matters.
 
-👉 Visit my portfolio: [jananjavdan.github.io](https://jananjavdan.github.io/)
+🔗 [Visit my portfolio](https://jananjavdan.github.io/)
+
 
 
 ## 🔨 Languages-Frameworks-Tools 🔨
