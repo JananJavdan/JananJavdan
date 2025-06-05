@@ -59,11 +59,15 @@ to building real-world tools with Java, I code with purpose and curiosity.
 
 
 
-## GitHub Stats
+## 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JananJavdan&show_icons=true&theme=default" alt="Janan's GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananJavdan&layout=compact&theme=default&langs_count=8" alt="Top Languages" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=JananJavdan&theme=default" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="./assets/profile-banner.png.png" alt="Profile Banner" width="700"/>
+</p>
+
 
 ## 🔥 GitHub Streak Stats
 
