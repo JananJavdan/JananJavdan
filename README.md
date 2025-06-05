@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header-banner.png.png" alt="Profile Banner" width="100%"/>
+  <img src="./assets/profile-header-banner.png.png" alt="Profile Banner" width="50%"/>
 </p>
 
 <h1 align="center">
