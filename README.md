@@ -34,14 +34,15 @@ to building real-world tools with Java, I code with purpose and curiosity.
 ## 🕹️ Play My Mini Game – "Catch the Emoji"
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JananJavdan/JananJavdan/main/assets/trex.gif.gif" alt="Emoji Game Preview" width="600"/>
+  <img src="https://raw.githubusercontent.com/JananJavdan/JananJavdan/main/assets/emoji-game-preview.gif" alt="Emoji Game Preview" width="600"/>
 </p>
 
 <p align="center">
   <a href="https://codepen.io/JananJavdan/pen/JodWePz" target="_blank">
-   <img src="./assets/emoji-game-preview.gif" alt="Emoji Game Preview" width="600"/>
+    <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20Play%20Now%20-%20CodePen-orange?style=for-the-badge" alt="Play Emoji Game">
   </a>
 </p>
+
 
 
 
