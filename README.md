@@ -31,9 +31,6 @@ I'm a software developer passionate about exploring advanced Java, JavaScript fr
   <img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/f421ea42-fbb8-4d78-92ef-05ac46ff27f8" width="80px" />
 </p>
 
-## 🛠️ Tech Stack 🔧👩‍💻
-
-
 
 ## Contact Me
 <p align="center">
@@ -43,12 +40,6 @@ I'm a software developer passionate about exploring advanced Java, JavaScript fr
   <a href="https://jananjavdan.github.io/resume"><img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/a0357308-5898-40da-a604-c929e073b202" width="70px"/></a>
 </p>
 
-### 💻 Code Mood Today
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/code.gif" width="150px"/>
-  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="180px"/>
-</p>
 
 
 ## GitHub Stats
@@ -57,9 +48,5 @@ I'm a software developer passionate about exploring advanced Java, JavaScript fr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananJavdan&layout=compact&theme=default&langs_count=8" alt="Top Languages" width="48%"/>
 </p>
 
-### 🔥 #30NitesOfCode
 
-I'm participating in `#30NitesOfCode` to keep growing and learning.  
-🌙 Small goals. Big consistency.  
-> Day 3 of 30 ✅
 
