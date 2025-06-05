@@ -6,13 +6,19 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JananJavdan&color=blue" alt="Profile Views">
 </p>
-<strong> About Me</strong>
+## About Me
 
-I'm a software developer passionate about exploring advanced Java, JavaScript frameworks like Angular, and enhancing my database skills. I enjoy learning new technologies and collaborating on exciting projects.
+I'm Janan Javdan — a passionate and evolving Java developer based in Belgium.  
+I enjoy building practical applications, exploring the Java ecosystem, and crafting clean, efficient solutions for real-world problems.
 
-- 🔭 **I’m currently working on:** Advanced Java, Angular
-- 🌱 **I’m currently learning:** Database design and development
-- 👯 **I’m looking to collaborate on:** Java or web development projects
+Currently, I'm focused on deepening my skills in Java (OOP, file management, Spring Boot) and frontend development using Angular.  
+I also have a growing interest in database architecture and backend systems.
+
+I'm always open to collaborating on meaningful web or Java-based development projects.  
+If you're building something impactful and value clean code, let's connect.
+
+👉 Visit my portfolio: [jananjavdan.github.io](https://jananjavdan.github.io/)
+
 
 ## 🔨 Languages-Frameworks-Tools 🔨
 <p align="center">
