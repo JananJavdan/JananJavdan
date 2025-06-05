@@ -59,21 +59,17 @@ to building real-world tools with Java, I code with purpose and curiosity.
 
 
 
-## 🔥 GitHub Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JananJavdan&theme=default" alt="GitHub Streak" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=JananJavdan&theme=default" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="./assets/profile-banner.png.png" alt="Profile Banner" width="350"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="./assets/profile-banner.png.png" alt="Profile Banner" width="700"/>
-</p>
-
-
-## 🔥 GitHub Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JananJavdan&theme=default" alt="GitHub Streak" />
-</p>
 
 
 ## 🕹️ Just for fun
