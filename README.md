@@ -31,9 +31,8 @@ I'm a software developer passionate about exploring advanced Java, JavaScript fr
   <img src="https://github.com/JananJavdan/JananJavdan/assets/145382151/f421ea42-fbb8-4d78-92ef-05ac46ff27f8" width="80px" />
 </p>
 
-<h1 align="center">
-  Hi there, I'm <span style="color:#FF69B4;">Janan Javdan</span> 💻✨
-</h1>
+## 🛠️ Tech Stack 🔧👩‍💻
+
 
 
 ## Contact Me
