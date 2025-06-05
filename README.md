@@ -24,7 +24,9 @@ class JananJavdan {
     }
 }
 
-✨ Born to build, wired to learn.From my first System.out.println("Hello World") at Intec Brussel,to building real-world tools with Java, I code with purpose and curiosity.
+✨ Born to build, wired to learn.
+From my first System.out.println("Hello World") at Intec Brussel,
+to building real-world tools with Java, I code with purpose and curiosity.
 
 💡 "Every app starts with a bold idea and grows with clean code."
 
