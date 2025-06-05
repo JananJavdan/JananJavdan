@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JananJavdan&color=blue" alt="Profile Views">
 </p>
-## About Me
+
 
 I'm Janan Javdan — a passionate and evolving Java developer based in Belgium.  
 I enjoy building practical applications, exploring the Java ecosystem, and crafting clean, efficient solutions for real-world problems.
