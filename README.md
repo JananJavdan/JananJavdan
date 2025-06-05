@@ -34,7 +34,7 @@ to building real-world tools with Java, I code with purpose and curiosity.
 ## 🕹️ Play My Mini Game – "Catch the Emoji"
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JananJavdan/JananJavdan/main/assets/emoji-game-preview.gif" alt="Emoji Game Preview" width="600"/>
+  <img src="https://raw.githubusercontent.com/JananJavdan/JananJavdan/main/assets/emoji-game-preview.gif.gif" alt="Emoji Game Preview" width="600"/>
 </p>
 
 <p align="center">
