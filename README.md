@@ -31,11 +31,7 @@ to building real-world tools with Java, I code with purpose and curiosity.
 💡 "Every app starts with a bold idea and grows with clean code."
 
 
-### 🎮 Game Preview
-
-<p align="center">
-  <img src="https://yourgameimageurl.gif" width="400px" alt="Minesweeper Preview" />
-</p>
+🎮 Try my interactive Tic Tac Toe on [CodePen](https://codepen.io/jananjavdan/pen/xyz123)
 
 
 
