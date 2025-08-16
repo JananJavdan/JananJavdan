@@ -94,11 +94,13 @@ to building real-world tools with Java, I code with purpose and curiosity.
 
 <p align="center">
   <img src="./assets/trex.gif.gif" width="500" alt="T-Rex Game" />
-</p>
 
-
+  
 - name: generate-breakout-game-from-github-contribution-graph
   uses: cyprieng/github-breakout@v1.0.0
+
+</p>
+
 
 
 
